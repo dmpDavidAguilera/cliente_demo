@@ -1,2 +1,3 @@
-# cliente_demo
-Curso aeodoo
+Listado de módulos cliente
+
+| nombre_modulo | funcionalidad |
